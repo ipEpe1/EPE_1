@@ -62,7 +62,7 @@ export class TusignoPage {
 
   }
   descTauro(){
-    return "En la mitología griega, Tauro es la forma de toro que el dios Zeus adoptó para seducir a Europa, una mítica princesa fenicia. Tuvieron tres hijos: Minos, el legendario rey de Creta, Sarpedón y Radamantis.    Otra versión nos dice que fue la bestia que envió la diosa Hera para acabar con Orión.    Según otra versión, Tauro sería la forma de Ío, cuando Zeus la transformó en vaca para evitar que Hera le descubriera siendo infiel.";   
+    return "En la mitología griega , Tauro es la forma de toro que el dios Zeus adoptó para seducir a Europa, una mítica princesa fenicia. Tuvieron tres hijos: Minos, el legendario rey de Creta, Sarpedón y Radamantis.    Otra versión nos dice que fue la bestia que envió la diosa Hera para acabar con Orión.    Según otra versión, Tauro sería la forma de Ío, cuando Zeus la transformó en vaca para evitar que Hera le descubriera siendo infiel.";   
 
 
 
